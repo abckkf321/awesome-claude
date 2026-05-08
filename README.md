@@ -199,7 +199,7 @@ Open standard (Linux Foundation) for connecting Claude to tools, repos, database
 - [Claude Discord](https://discord.com/invite/prcdpx7qMm) -  Official Discord community for Claude users and developers.
 - [r/ClaudeAI](https://www.reddit.com/r/ClaudeAI/) -  Reddit community for Claude discussions and tips.
 - [Anthropic AI Facebook Group](https://www.facebook.com/groups/anthropicai/) -  Facebook group for Anthropic AI and Claude discussions.
-- [Claude.ai 中文界面](https://github.com/abckkf321/仓库名) - Add Claude.ai Chinese UI Extension to Browser Extensions
+- [Claude.ai 中文界面](https://github.com/abckkf321/claude-translate-extension) - Add Claude.ai Chinese UI Extension to Browser Extensions
 ---
 
 **[⬆ Back to Contents](#-contents)**
